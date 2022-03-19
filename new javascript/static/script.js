@@ -152,7 +152,7 @@ function randomColors() {
     }
 }
 
-// CHallenge 5: Blackjack
+/*// CHallenge 5: Blackjack
 let blackjackGame = {
     'you': ('scorespan': '#your-blackjack-result', 'div': '#your-box', 'score': 0),
     'dealer': ('scorespan': '#dealer-blackjack-result', 'div': '#dealer-box', 'score': 0),    
@@ -174,4 +174,4 @@ function showcard(activePlayer) {
     cardImage.src = 'static/images/q.png';
     document.querySelector(YOU['div']).appendChild(cardImage);
     hitSound.play();
-}
+}*/
